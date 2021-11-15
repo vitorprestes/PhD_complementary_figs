@@ -53,7 +53,7 @@ Here I present some animation examples, for **Hüdepohl**, **Nakazato**, and **W
 </p>
 
 
-> **wc100kt30prct - HyperK-like detector**
+> **wc100kt30prct - Hyper-K like detector**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/34523924/141710162-6f6c25b9-bb04-4aa3-85ee-17b408679fab.gif" width=33% height=33%><img src="https://user-images.githubusercontent.com/34523924/141707174-6d8acbb5-2682-48af-be50-fd4e4a3f42f2.gif" width=33% height=33%><img src="https://user-images.githubusercontent.com/34523924/141707196-69ec014a-2ebc-4f24-aa5a-9bf73e691c6e.gif" width=33% height=33%>
